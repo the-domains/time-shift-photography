@@ -1,0 +1,28 @@
+name: Time Shift Photography
+favicon: null
+layout_spectrum: 0.04184083128347993
+typography_spectrum: 0.634874633513391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7615495854988694
+  lightness: 0.6623270097188652
+  saturation: 0.8931731539778411
+  rhythmicContrast: 0.8202146042603999
+purpose: []
